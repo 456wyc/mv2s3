@@ -1,10 +1,10 @@
 {
-  "name": "@tinoq/isync",
+  "name": "@tinoq/mv2s3",
   "version": "1.0.1",
-  "description": "",
+  "description": "upload file to s3",
   "private": false,
   "bin": {
-    "isync": "./app.js"
+    "mv2s3": "./app.js"
   },
   "dependencies": {
     "aws-sdk": "^2.573.0",
@@ -16,7 +16,7 @@
   "author": "wyc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/456wyc/isync.git"
+    "url": ""
   },
   "license": "MIT"
 }
