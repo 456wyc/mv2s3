@@ -1,6 +1,6 @@
 {
   "name": "@tinoq/mv2s3",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "upload file to s3",
   "private": false,
   "bin": {
@@ -8,15 +8,13 @@
   },
   "dependencies": {
     "aws-sdk": "^2.573.0",
-    "chokidar": "^3.3.0",
-    "commander": "^4.0.1",
-    "shelljs": "^0.8.3"
+    "commander": "^4.0.1"
   },
   "node-version": "~10.0.0",
   "author": "wyc",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "move local file to s3"
   },
   "license": "MIT"
 }
